@@ -1,0 +1,7 @@
+# Default ignored files
+/workspace.xml
+.idea/
+db.sqlite3
+DjangoRFViewSet/__pycache__/
+testapp/__pycache__
+testapp/migrations/
