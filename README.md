@@ -14,6 +14,6 @@ Steps to Execute Project:
 Install VirtualEnv : pip install virtalenv Create VirtualEnv : virtualenv venv Install requirements : Navigate to~~~~ requirements file path and execute the following command. pip install -r requirements.txt
 
 This project is created to perform CRUD operations using the djangorestframework's ViewSet concept.
-And also implemented the Token Based Authentication System for the created viewset and locally and globally.
+And also implemented the Token Based Authentication System for the created viewset locally and globally.
 
 URL : {localhost}/api - to access all api methods.
